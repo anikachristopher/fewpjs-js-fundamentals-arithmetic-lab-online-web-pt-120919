@@ -15,7 +15,7 @@ var random = Math.floor(Math.random() * 10) + 1;
 
 var mod = 28 % 6;
 
-var max = 
+var max = Math.max
 
 
 // Write your code here
