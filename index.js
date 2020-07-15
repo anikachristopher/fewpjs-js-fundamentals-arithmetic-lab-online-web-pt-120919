@@ -6,4 +6,8 @@
 //   "4".
 // 4. Create a variable called `max` that will return "20" as the highest number in
 //   the set.
+
+let num1 = 31
+let num2 = 2
+
 // Write your code here
