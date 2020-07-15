@@ -11,7 +11,6 @@ var num1 = 31
 var num2 = 2
 var multiply = num1 * num2;
 
-Math.random()
-Math.floor(Math.random() * 10);
+var random = Math.floor(Math.random() * 10);
 
 // Write your code here
